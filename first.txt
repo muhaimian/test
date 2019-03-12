@@ -16,7 +16,9 @@ git的几个命令：
 	git reflog  查看日志（详细的）
 	git reset --hard ba1c2b5(版本号) 回退到对应的版本
 	git checkout -- readme.txt  撤销修改
-	
+
+
+	上传到GitHub时，项目的名字要一致
 
 
 
