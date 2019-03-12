@@ -3,3 +3,18 @@
 第二次你好
 
 第三次你好
+
+git的几个命令：
+	git add 文件名
+	git commit -m "第几次"
+	git status  查看状态
+	git reset --hard HEAD^  回退到上一个版本
+	git reset --hard HEAD^^ 回退到上两个版本
+	git log 查看日志
+	git reflog  查看日志（详细的）
+	git reset --hard ba1c2b5(版本号) 回退到对应的版本
+	
+
+
+
+
