@@ -5,6 +5,8 @@
 第三次你好
 
 git的几个命令：
+	进入文件夹
+	git init 初始化
 	git add 文件名
 	git commit -m "第几次"
 	git status  查看状态
